@@ -1,0 +1,15 @@
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\Entities\bin\Debug\net6.0\Entities.deps.json
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\Entities\bin\Debug\net6.0\Entities.dll
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\Entities\bin\Debug\net6.0\Entities.pdb
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\Entities\obj\Debug\net6.0\Entities.sourcelink.json
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\Entities\obj\Debug\net6.0\Entities.dll
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\Entities\obj\Debug\net6.0\refint\Entities.dll
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\Entities\obj\Debug\net6.0\Entities.pdb
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\Entities\obj\Debug\net6.0\ref\Entities.dll

@@ -10,6 +10,7 @@ using CRUDExample.Controllers;
 using ServiceContracts.DTO;
 using ServiceContracts.Enums;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 
 namespace CRUDTests
 {
@@ -20,29 +21,31 @@ namespace CRUDTests
 
   private readonly Mock<ICountriesService> _countriesServiceMock;
   private readonly Mock<IPersonsService> _personsServiceMock;
+  private readonly Mock<ILogger<PersonsController>> _personsControllerMock;
 
   private readonly Fixture _fixture;
 
-  public PersonsControllerTest()
-  {
-   _fixture = new Fixture();
+		public PersonsControllerTest()
+		{
+			_fixture = new Fixture();
 
-   _countriesServiceMock = new Mock<ICountriesService>();
-   _personsServiceMock = new Mock<IPersonsService>();
+			_countriesServiceMock = new Mock<ICountriesService>();
+			_personsServiceMock = new Mock<IPersonsService>();
 
-   _countriesService = _countriesServiceMock.Object;
-   _personsService = _personsServiceMock.Object;
-  }
+			_countriesService = _countriesServiceMock.Object;
+			_personsService = _personsServiceMock.Object;
+            _personsControllerMock = new Mock<ILogger<PersonsController>>();
+		}
 
-  #region Index
+		#region Index
 
-  [Fact]
+		[Fact]
   public async Task Index_ShouldReturnIndexViewWithPersonsList()
   {
    //Arrange
    List<PersonResponse> persons_response_list = _fixture.Create<List<PersonResponse>>();
 
-   PersonsController personsController = new PersonsController(_personsService, _countriesService);
+   PersonsController personsController = new PersonsController(_personsService, _countriesService, _personsControllerMock.Object);
 
    _personsServiceMock
     .Setup(temp => temp.GetFilteredPersons(It.IsAny<string>(), It.IsAny<string>()))
@@ -84,7 +87,7 @@ namespace CRUDTests
     .Setup(temp => temp.AddPerson(It.IsAny<PersonAddRequest>()))
     .ReturnsAsync(person_response);
 
-   PersonsController personsController = new PersonsController(_personsService, _countriesService);
+   PersonsController personsController = new PersonsController(_personsService, _countriesService, _personsControllerMock.Object);
 
 
    //Act
@@ -119,7 +122,7 @@ namespace CRUDTests
     .Setup(temp => temp.AddPerson(It.IsAny<PersonAddRequest>()))
     .ReturnsAsync(person_response);
 
-   PersonsController personsController = new PersonsController(_personsService, _countriesService);
+   PersonsController personsController = new PersonsController(_personsService, _countriesService, _personsControllerMock.Object);
 
 
    //Act

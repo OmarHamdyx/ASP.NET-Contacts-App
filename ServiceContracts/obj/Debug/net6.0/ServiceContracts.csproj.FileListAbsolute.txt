@@ -1,0 +1,16 @@
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\bin\Debug\net6.0\ServiceContracts.deps.json
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\bin\Debug\net6.0\ServiceContracts.dll
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\bin\Debug\net6.0\ServiceContracts.pdb
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\bin\Debug\net6.0\Entities.dll
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\bin\Debug\net6.0\Entities.pdb
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.AssemblyReference.cache
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\obj\Debug\net6.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfoInputs.cache
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfo.cs
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CoreCompileInputs.cache
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\obj\Debug\net6.0\ServiceContracts.sourcelink.json
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\obj\Debug\net6.0\ServiceC.04662A29.Up2Date
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\obj\Debug\net6.0\ServiceContracts.dll
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\obj\Debug\net6.0\refint\ServiceContracts.dll
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\obj\Debug\net6.0\ServiceContracts.pdb
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\ServiceContracts\obj\Debug\net6.0\ref\ServiceContracts.dll

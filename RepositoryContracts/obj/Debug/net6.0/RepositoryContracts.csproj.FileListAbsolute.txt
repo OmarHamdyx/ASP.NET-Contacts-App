@@ -1,0 +1,16 @@
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.deps.json
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.dll
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.pdb
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\bin\Debug\net6.0\Entities.dll
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\bin\Debug\net6.0\Entities.pdb
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.csproj.AssemblyReference.cache
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.AssemblyInfoInputs.cache
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.AssemblyInfo.cs
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.sourcelink.json
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\obj\Debug\net6.0\Reposito.28D4BA81.Up2Date
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.dll
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\obj\Debug\net6.0\refint\RepositoryContracts.dll
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.pdb
+O:\Repositories\Repositories\ASP.NET-Contacts-Web-App\RepositoryContracts\obj\Debug\net6.0\ref\RepositoryContracts.dll

@@ -2,7 +2,12 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc.Testing;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
 using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore.InMemory;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace CRUDTests
@@ -11,6 +16,7 @@ namespace CRUDTests
  {
   protected override void ConfigureWebHost(IWebHostBuilder builder)
   {
+   base.ConfigureWebHost(builder);
 
    builder.UseEnvironment("Test");
 
@@ -26,8 +32,6 @@ namespace CRUDTests
      options.UseInMemoryDatabase("DatbaseForTesting");
     });
    });
-      base.ConfigureWebHost(builder);
-
   }
  }
 }

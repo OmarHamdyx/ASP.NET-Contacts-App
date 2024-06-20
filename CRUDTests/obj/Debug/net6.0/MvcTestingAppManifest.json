@@ -1,0 +1,8 @@
+{
+  "CRUDExample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\CRUDExample",
+  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\Entities",
+  "Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\Repositories",
+  "RepositoryContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\RepositoryContracts",
+  "ServiceContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\ServiceContracts",
+  "Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\Services"
+}

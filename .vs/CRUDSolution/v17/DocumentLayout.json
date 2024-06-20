@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD158910-6639-408C-B008-F7220FBB6E18}|Entities\\Entities.csproj|o:\\repositories\\repositories\\asp.net-contacts-web-app\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD158910-6639-408C-B008-F7220FBB6E18}|Entities\\Entities.csproj|solutionrelative:entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|o:\\repositories\\repositories\\asp.net-contacts-web-app\\crudexample\\views\\persons\\personspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\personspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|o:\\repositories\\repositories\\asp.net-contacts-web-app\\crudexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|o:\\repositories\\repositories\\asp.net-contacts-web-app\\crudexample\\views\\shared\\_gridcolumnheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\shared\\_gridcolumnheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|o:\\repositories\\repositories\\asp.net-contacts-web-app\\crudexample\\crudexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\crudexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|o:\\repositories\\repositories\\asp.net-contacts-web-app\\crudtests\\personscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\personscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\Entities\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationDbContext.cs",
+              "ToolTip": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\Entities\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entities\\ApplicationDbContext.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA1wEIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:05:39.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonsPDF.cshtml",
+              "DocumentMoniker": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "ToolTip": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T18:05:19.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_GridColumnHeader.cshtml",
+              "DocumentMoniker": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
+              "ToolTip": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T18:05:14.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T18:05:08.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRUDExample",
+              "DocumentMoniker": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\CRUDExample\\CRUDExample.csproj",
+              "RelativeDocumentMoniker": "CRUDExample\\CRUDExample.csproj",
+              "ToolTip": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\CRUDExample\\CRUDExample.csproj",
+              "RelativeToolTip": "CRUDExample\\CRUDExample.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T18:04:37.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonsControllerTest.cs",
+              "DocumentMoniker": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\CRUDTests\\PersonsControllerTest.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\PersonsControllerTest.cs",
+              "ToolTip": "O:\\Repositories\\Repositories\\ASP.NET-Contacts-Web-App\\CRUDTests\\PersonsControllerTest.cs",
+              "RelativeToolTip": "CRUDTests\\PersonsControllerTest.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAA0wIYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:00:49.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1487,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
